@@ -4,6 +4,7 @@ namespace DesignPatterns.SOLID;
 //e.g. the square should still behave like a square even if you are upcasting to rectangle
 //
 //</summary>
+using System;
 public class LiskovSubstitutionPrinciple
 {
     public class Rectangle

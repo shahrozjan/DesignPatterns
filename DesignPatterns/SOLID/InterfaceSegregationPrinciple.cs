@@ -1,3 +1,5 @@
+using System;
+
 namespace DesignPatterns.SOLID;
 
 // IF you have an interface with too much stuff, just break it apart into smaller ones

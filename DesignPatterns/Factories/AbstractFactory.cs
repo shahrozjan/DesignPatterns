@@ -7,7 +7,13 @@ public class AbstractFactory
         void Consume();
     }
     
-    internal Class Tea : 
+    internal class Tea : IHotDrink
+    {
+        public void Consume()
+        {
+            throw new System.NotImplementedException();
+        }
+    }
     
     class Program
     {

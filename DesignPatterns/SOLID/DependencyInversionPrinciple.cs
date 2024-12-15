@@ -1,3 +1,7 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
 namespace DesignPatterns.SOLID;
 
 //This code demonstrates the Dependency Inversion Principle (DIP) from SOLID design principles
